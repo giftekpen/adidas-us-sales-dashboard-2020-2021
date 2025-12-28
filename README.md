@@ -36,3 +36,18 @@ The goal is to uncover trends in revenue, profitability, product performance, sa
 
 ## 📂 Dataset
 
+## Dashboard Features
+- Interactive KPI cards
+- Dynamic slicers (Year, Region, Retailer, Product, Sales Method)
+- Monthly trend comparison (2020 vs 2021)
+- Geographic sales distribution (U.S. map)
+- Product and category performance visuals
+
+## Business Value
+-This dashboard enables stakeholders to:
+- Quickly assess overall business performance
+- Identify high-performing products and regions
+- Understand customer purchasing behavior
+- Support strategic planning and inventory decisions
+
+
