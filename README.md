@@ -12,3 +12,27 @@ The goal is to uncover trends in revenue, profitability, product performance, sa
 - Compare performance across sales methods
 - Explore regional and state-level sales trends
 - Understand monthly seasonality patterns
+
+## Key Metrics
+- Total Revenue: $899.9M
+- Operating Profit: $332.1M
+- Total Units Sold: 2.48M
+- YoY Growth: 294.23%
+
+## Key Insights
+- Men’s products, particularly footwear, are the strongest revenue drivers.
+- In-store sales generate the highest revenue, outperforming online and outlet channels.
+- The West region leads U.S. sales, with California, Texas, and New York contributing the most.
+- 2021 significantly outperformed 2020, indicating strong recovery and growth.
+- Sales show clear seasonality, peaking mid-year and during December.
+
+## Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Calculated Fields
+- KPI Cards
+- Slicers
+- Charts & Data Visualization
+
+## 📂 Dataset
+
