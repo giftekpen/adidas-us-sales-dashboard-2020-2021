@@ -35,8 +35,6 @@ The goal is to uncover trends in revenue, profitability, product performance, sa
 - Slicers
 - Charts & Data Visualization
 
-## 📂 Dataset
-
 ## Dashboard Features
 - Interactive KPI cards
 - Dynamic slicers (Year, Region, Retailer, Product, Sales Method)
