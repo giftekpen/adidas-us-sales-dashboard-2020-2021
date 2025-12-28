@@ -4,7 +4,7 @@ An Excel-based sales analytics dashboard analyzing Adidas U.S. performance (2020
 ## Project Overview
 This project analyzes Adidas U.S. sales performance for the years 2020 and 2021, transforming raw transactional data into an interactive executive dashboard.
 The goal is to uncover trends in revenue, profitability, product performance, sales channels, and regional distribution to support data-driven business decisions.
-![Booking Trend.png](https://github.com/giftekpen/Splendor-Hotel-Analysis/blob/main/Booking%20Trend.png)
+![Adidas dashboad png.jpg](https://github.com/giftekpen/adidas-us-sales-dashboard-2020-2021/blob/main/Adidas%20dashboard%20png.jpg)
 
 ## Objectives
 - Analyze total revenue, profit, and units sold
